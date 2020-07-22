@@ -1,4 +1,4 @@
-package chapter_two.observer;
+package observer;
 
 import java.util.ArrayList;
 import java.util.Observable;

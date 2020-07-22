@@ -1,4 +1,4 @@
-package chapter_two.observer;
+package observer;
 
 public interface Subject {
     public void registerObserver(Observer observer);
